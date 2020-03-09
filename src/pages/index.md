@@ -15,15 +15,6 @@ sections:
       This site was built using Stackbit, Gatsby and Netlify CMS. I dont profess
       to fully understand everything thats going on behind the curtain here, but
       I hope to learn as I go and eventually make this my own.
-  - view_all_text: View All
-    num_projects_displayed: 6
-    section_id: latest-projects
-    view_all_url: portfolio/index.html
-    subtitle: An optional subtitle of the section
-    title: Recent Work
-    type: portfolioblock
-    layout_style: mosaic
-    component: PortfolioBlock
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
