@@ -8,6 +8,13 @@ sections:
     content: >-
       This is my space to document, and explain to myself, what I have learned
       and any thoughts I need to see written down.
+
+
+
+
+      This site was built using Stackbit, Gatsby and Netlify CMS. I dont profess
+      to fully understand everything thats going on behind the curtain here, but
+      I hope to learn as I go and eventually make this my own.
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
