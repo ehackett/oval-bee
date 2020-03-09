@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hi, This is my development blog.'
     section_id: hero
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This is my space to document, and explain to myself, what I have learned
+      and any thoughts I need to see written down.
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
